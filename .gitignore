@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 pip-selfcheck.json
+=======
+>>>>>>> d6abaf7be8e2351625ff93d3846fa0745fb29d34
 *.pyc
 bin/
 include/
 lib/
 __pychace__
+<<<<<<< HEAD
+=======
+pip-selfcheck.json
+>>>>>>> d6abaf7be8e2351625ff93d3846fa0745fb29d34
